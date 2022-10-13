@@ -1,0 +1,22 @@
+[
+    {
+        "mn": "Minimal Price RUB -> BUSD with TinkoffNew: 62.95 руб",
+        "link": "https://p2p.binance.com/ru/TinkoffNew/USDT?fiat=RUB"
+    },
+    {
+        "mn": "Minimal Price RUB -> BUSD with RosBankNew: 62.95 руб",
+        "link": "https://p2p.binance.com/ru/RosBankNew/USDT?fiat=RUB"
+    },
+    {
+        "mn": "Minimal Price RUB -> BUSD with RaiffeisenBank: 62.97 руб",
+        "link": "https://p2p.binance.com/ru/RaiffeisenBank/USDT?fiat=RUB"
+    },
+    {
+        "mn": "Minimal Price RUB -> BUSD with QIWI: 63.2 руб",
+        "link": "https://p2p.binance.com/ru/QIWI/USDT?fiat=RUB"
+    },
+    {
+        "mn": "Minimal Price RUB -> BUSD with YandexMoneyNew: 64.46 руб",
+        "link": "https://p2p.binance.com/ru/YandexMoneyNew/USDT?fiat=RUB"
+    }
+]

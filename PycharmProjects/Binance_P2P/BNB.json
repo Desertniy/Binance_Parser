@@ -1,0 +1,22 @@
+[
+    {
+        "mn": "Minimal Price RUB -> BNB with TinkoffNew: 17992.99 руб",
+        "link": "https://p2p.binance.com/ru/TinkoffNew/USDT?fiat=RUB"
+    },
+    {
+        "mn": "Minimal Price RUB -> BNB with RosBankNew: 17950.86 руб",
+        "link": "https://p2p.binance.com/ru/RosBankNew/USDT?fiat=RUB"
+    },
+    {
+        "mn": "Minimal Price RUB -> BNB with RaiffeisenBank: 18200.0 руб",
+        "link": "https://p2p.binance.com/ru/RaiffeisenBank/USDT?fiat=RUB"
+    },
+    {
+        "mn": "Minimal Price RUB -> BNB with QIWI: 17881.0 руб",
+        "link": "https://p2p.binance.com/ru/QIWI/USDT?fiat=RUB"
+    },
+    {
+        "mn": "Minimal Price RUB -> BNB with YandexMoneyNew: 18289.99 руб",
+        "link": "https://p2p.binance.com/ru/YandexMoneyNew/USDT?fiat=RUB"
+    }
+]
